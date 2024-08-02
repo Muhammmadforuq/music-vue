@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-header{
+  background-image: url("../assets/img/header.png");
+}
+
